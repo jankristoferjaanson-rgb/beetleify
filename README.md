@@ -1,2 +1,2 @@
-# tictactoe
+# beetleify
 lorem ipsum dolor sit amet
