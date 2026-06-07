@@ -1,2 +1,3 @@
 # beetleify
-lorem ipsum dolor sit amet
+localhost:8080
+``` npm start ```
